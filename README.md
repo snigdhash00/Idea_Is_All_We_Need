@@ -23,9 +23,9 @@ Includes: Title, Abstract, Sections (e.g., future work, conclusion)
 
 🛠 Methodology
 
-Retrieve papers via CORE API
-Preprocess text using NLP pipelines
-Extract relevant sections (Future Work, Limitations)
-Embed & Search with BERT for semantic matching
-Summarize & Analyze using GPT-4 or custom QA modules
-Visualize insights via topic modeling (LDA)
+- Retrieve papers via CORE API
+- Preprocess text using NLP pipelines
+- Extract relevant sections (Future Work, Limitations)
+- Embed & Search with BERT for semantic matching
+- Summarize & Analyze using GPT-4 or custom QA modules
+- Visualize insights via topic modeling (LDA)
