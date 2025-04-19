@@ -8,7 +8,7 @@ from nltk.tokenize import sent_tokenize
 nltk.download('punkt')
 
 # API key - leave blank for you to fill in
-apikey = "kgUzxD4K2Z3QjIp6wT1qJBMbVCAfvahn"
+apikey = "<your API key>"
 
 def query_api(search_url, query, scrollId=None):
     headers = {"Authorization": "Bearer " + apikey}
